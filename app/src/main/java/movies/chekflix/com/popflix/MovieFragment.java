@@ -127,7 +127,7 @@ public class MovieFragment extends Fragment {
                 final String SORT_PARAM = "sort_by";
                 final String SORT_PARAM_VALUE = key;
                 final String API_KEYPARAM = "api_key";
-                final String API_KEYPARAM_VALUE = "d094aee99018937c03e6d492ebb80d11";
+                final String API_KEYPARAM_VALUE = "";//removed the api key
 
                 Uri builtUri = Uri.parse(MOVIE_BASE_URL).buildUpon()
                         .appendQueryParameter(SORT_PARAM, SORT_PARAM_VALUE)
