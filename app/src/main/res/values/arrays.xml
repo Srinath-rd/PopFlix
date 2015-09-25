@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sort_by_values">
+        <item>@string/pref_by_sortBy_mp</item>
+        <item>@string/pref_by_sortBy_hr</item>
+    </string-array>
+    <string-array name="sort_by_options">
+        <item>@string/pref_by_sortBy_label_mp</item>
+        <item>@string/pref_by_sortBy_label_hr</item>
+    </string-array>
+</resources>

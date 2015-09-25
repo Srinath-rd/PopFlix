@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopFlix</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort_by_key">SORT BY</string>
+    <string name="sort_by_value">mp</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="sort_by_title">SORT BY</string>
+    <string name="sort_by_DefaultValue">mp</string>
+
+    <string name="pref_by_sortBy_mp">mp</string>
+    <string name="pref_by_sortBy_hr">hr</string>
+
+    <string name="pref_by_sortBy_label_mp">MOST POPULAR</string>
+    <string name="pref_by_sortBy_label_hr">HIGHEST RATED</string>
+</resources>
